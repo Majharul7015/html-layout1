@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:aqua ;
+    font-size: 40px;
+    text-align: center;
+}
+.banner{
+    background-color: blue;
+    font-size: 40px;
+    height: 400px;
+    text-align: center;
+}
+.article{
+    overflow: hidden;
+
+}
+.left{
+    width: 50%;
+    height: 300px;
+    font-size: 40px;
+    background-color: red;
+    float: left;
+    text-align: center;
+}
+.right{
+    width: 50%;
+    height: 300px;
+    font-size: 40px;
+    background-color: green;
+    float: right;
+    text-align: center;
+}
+.feature{
+    overflow: hidden;
+}
+.feature-one{
+    width: 33.33%;
+    height: 300px;
+    font-size: 40px;
+    background-color: yellow;
+    float: left;
+    text-align: center;
+}
+
+.feature-two{
+    width: 33.33%;
+    height: 300px;
+    font-size: 40px;
+    background-color: darkcyan;
+    float: left;
+    text-align: center;
+}
+
+.feature-three{
+    width: 33.33%;
+    height: 300px;
+    font-size: 40px;
+    background-color:darksalmon;
+    float: left;
+    text-align: center;
+
+}
+.ads{
+    overflow: hidden;
+}
+.left-ads{
+    width: 70%;
+    height: 200px;
+    font-size: 40px;
+    background-color: firebrick;
+    float: left;
+    text-align: center;
+}
+.right-ads{
+    width: 30%;
+    height: 200px;
+    font-size: 40px;
+    background-color:gold;
+    float: right;
+    text-align: center;
+}
+footer{
+    background-color:gray ;
+    font-size: 40px;
+    text-align: center;
+}
